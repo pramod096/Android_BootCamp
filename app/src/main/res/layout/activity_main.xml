@@ -16,7 +16,14 @@
        android:textStyle="bold|italic"
        android:textColor="#EF0000"
        android:gravity="center_horizontal"
-       android:layout_marginTop="30dp"/>
+       android:layout_marginTop="60dp"
+       />
+
+   <ImageView
+       android:layout_width="match_parent"
+       android:layout_height="match_parent"
+       android:src="@drawable/birthday_cake"
+       />
 
 
 
